@@ -11,7 +11,7 @@ import SwiftUI
 struct LastOfFiveApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TaskSix()
         }
     }
 }
